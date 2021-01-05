@@ -31,3 +31,17 @@ The programming language used to write smart contracts on Ethereum, also various
 ### Vyper
 A python like programming language which can also be used on Ethereum.
 
+### Oracle
+An external data feed for smart contracts, for example getting the USD/EUR exchange rate.
+
+### AMM (Automated Market Maker)
+Refers to decentralized exchanges which have automatic pricing mechanisms
+
+### Gas Used
+How much gas is used in an Ethereum transaction. Depends on the code which is being executed for the smart contract
+
+### Gas Limit
+The maximum amount of gas you would want to spend on a transaction. This is incase there is some bug or unforseen situation in the smart contract which will consume too much gas. Metamask tends to set this at 150% of the expected gas usage.
+
+### Gas Price
+The cost per gas in Wei (10^-9 ETH)
