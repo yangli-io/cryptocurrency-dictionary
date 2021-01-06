@@ -14,7 +14,10 @@ Refers to a group of records that exists as one entry in the blockchain database
 Executable code that exists in some blockchains
 
 ### Proof of Work
-Doing work to proof legitimacy, for automated system this means doing computationally intense work. This is called mining.
+Doing work to prove legitimacy, for automated system this means doing computationally intense work. This is called mining.
+
+### Proof of Stake
+An alternative to Proof of Work whereby you lock a bunch of your coins to incentivise yourself not to cheat the system
 
 ### Mining
 Running a computer program which tries to find the answer to the next block.
@@ -45,3 +48,9 @@ The maximum amount of gas you would want to spend on a transaction. This is inca
 
 ### Gas Price
 The cost per gas in Wei (10^-9 ETH)
+
+### Airdrop
+Giving away tokens for free
+
+### Yield Farming
+Staking tokens in order to earn some other tokens periodically
