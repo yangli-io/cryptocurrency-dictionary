@@ -54,3 +54,9 @@ Giving away tokens for free
 
 ### Yield Farming
 Staking tokens in order to earn some other tokens periodically
+
+### ERC20
+A smart contract token standard for the Ethereum Network.
+
+### ERC721
+A smart contract Non Fungible Token standard for the Ethereum Network. (Non Fungible means it cannot be divided and sold at the same ratio, examples are Art, Pair of Shoes and etc)
