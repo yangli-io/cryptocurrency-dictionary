@@ -60,3 +60,6 @@ A smart contract token standard for the Ethereum Network.
 
 ### ERC721
 A smart contract Non Fungible Token standard for the Ethereum Network. (Non Fungible means it cannot be divided and sold at the same ratio, examples are Art, Pair of Shoes and etc)
+
+### Sharding
+A performance improvement mechanism where a blockchain is split into multiple separate networks and deal with transactions separately and eventually sync up.
