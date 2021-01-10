@@ -40,6 +40,9 @@ An external data feed for smart contracts, for example getting the USD/EUR excha
 ### AMM (Automated Market Maker)
 Refers to decentralized exchanges which have automatic pricing mechanisms
 
+### Dex
+Decentralized Exchange, refers to an exchange which doesnt require a central party to run. AKA, Automated Market Makers.
+
 ### Gas Used
 How much gas is used in an Ethereum transaction. Depends on the code which is being executed for the smart contract
 
