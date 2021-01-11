@@ -66,3 +66,6 @@ A smart contract Non Fungible Token standard for the Ethereum Network. (Non Fung
 
 ### Sharding
 A performance improvement mechanism where a blockchain is split into multiple separate networks and deal with transactions separately and eventually sync up.
+
+### Stablecoins
+A token which is pegged to a currency (usually USD).
