@@ -69,3 +69,9 @@ A performance improvement mechanism where a blockchain is split into multiple se
 
 ### Stablecoins
 A token which is pegged to a currency (usually USD).
+
+### Public Key
+Your public key address, feel free to share this with other people.
+
+### Private Key
+Your private key address, NEVER share this with anyone under any circumstance
